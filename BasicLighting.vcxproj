@@ -153,6 +153,7 @@
   <ItemGroup>
     <Image Include="assets\awesomeface.png" />
     <Image Include="assets\container.jpg" />
+    <Image Include="BasicLighting.gif" />
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\shader_lightcube.fs" />

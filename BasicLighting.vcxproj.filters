@@ -21,6 +21,9 @@
     <Image Include="assets\container.jpg">
       <Filter>Archivos de recursos</Filter>
     </Image>
+    <Image Include="BasicLighting.gif">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\shader_light_view.fs" />
